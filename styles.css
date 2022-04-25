@@ -1,0 +1,9 @@
+html, body {
+    margin:0;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Playfair Display', serif;
+}
+img {
+    max-width: 100%;
+    height: auto;
+}
